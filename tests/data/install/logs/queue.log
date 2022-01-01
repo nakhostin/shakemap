@@ -1,0 +1,12 @@
+2021-03-02 11:13:13 - INFO - Testing the logger
+2021-03-02 11:13:13 - INFO - Queueing event test_event due to action "test"
+2021-03-02 11:13:13 - INFO - Running event test_event
+2021-03-02 11:13:13 - INFO - Writing event test_event to event.xml
+2021-03-02 11:13:15 - INFO - Reaped child for event test_event (return code 0)
+2021-03-02 11:13:15 - INFO - Canceling event test_event
+2021-03-02 11:13:16 - INFO - Reaped child for event test_event (return code 0)
+2021-03-02 11:13:16 - INFO - Queueing event test_event due to action "Event added"
+2021-03-02 11:13:16 - INFO - Running event test_event
+2021-03-02 11:13:16 - INFO - Writing event test_event to event.xml
+2021-03-02 11:13:17 - INFO - Reaped child for event test_event (return code 0)
+2021-03-02 11:13:17 - INFO - Delaying processing event test_event due to network delay configuration.
